@@ -2,26 +2,38 @@
 layout: default
 ---
 
-## Introduction
+## Esittelyni
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Olen diplomi-insinööri, ohjelmistosuunnittelija ja N. vuoden venäjän kielen opiskelija Helsingin yliopistossa. Akateemisia mielenkiinnonkohteitani ovat kieliteknologia ja venäjän kieli, erityisesti venäjän verbiopin tietyt erityispiirteet. Lukuvuonna 2018-2019 viimeistelen kandityötäni aiheesta "Venäjän verbien aspektien käyttö itsenäisesti esiintyvissä infinitiiveissä" ja odotan valmistuvani humanististen tieteiden kandidaatiksi kesäksi 2019.
 
-## Find me on
+## Online-profiilejani
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/mattiristeli/), [GitHub](https://github.com/mristeli)
 
-## Contact
+## Yhteystietoni
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+Sähköpostiosoitteeni ovat muotoa first_name.last_name@\(helsinki tai iki\)\.fi
 
-## Courses I've Taken
+## Kurssini
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Introduction to Language Technology](https://courses.helsinki.fi/en/kik-405/124787882), syyslukukausi 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Command-line Course](https://courses.helsinki.fi/en/kik-lg218/126710126), syyslukukausi 2018
 
-## Projects
+## Projektejani
 
-## Misc. 
+[Routing Santa in several languages](https://github.com/mristeli/travellingsanta)
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## Muuta
+
+#### Yliopistojani
+
+[Helsinki University of Technology](https://en.wikipedia.org/wiki/Helsinki_University_of_Technology)
+
+[University of Helsinki](https://www.helsinki.fi)
+
+[Moscow State University](https://en.wikipedia.org/wiki/Moscow_State_University)
+
+#### Työnantajani
+
+[Ubisecure](https://www.ubisecure.com)
