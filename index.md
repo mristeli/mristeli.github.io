@@ -6,6 +6,8 @@ layout: default
 
 Olen diplomi-insinööri, ohjelmistosuunnittelija ja N. vuoden venäjän kielen opiskelija Helsingin yliopistossa. Akateemisia mielenkiinnonkohteitani ovat kieliteknologia ja venäjän kieli, erityisesti venäjän verbiopin tietyt erityispiirteet. Lukuvuonna 2018-2019 viimeistelen kandityötäni aiheesta "Venäjän verbien aspektien käyttö itsenäisesti esiintyvissä infinitiiveissä" ja odotan valmistuvani humanististen tieteiden kandidaatiksi kesäksi 2019.
 
+[Ansioluettelo](assets/documents/CV.pdf)
+
 ## Online-profiilejani
 
 [LinkedIn](https://www.linkedin.com/in/mattiristeli/), [GitHub](https://github.com/mristeli)
