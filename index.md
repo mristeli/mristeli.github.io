@@ -24,7 +24,7 @@ Sähköpostiosoitteeni ovat muotoa first_name.last_name@\(helsinki tai iki\)\.fi
 
 ## Projektejani
 
-[Routing Santa in several languages](https://github.com/mristeli/travellingsanta)
+[Command-line Course](https://github.com/mristeli/cmdline-course)
 
 ## Muuta
 
