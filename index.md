@@ -38,4 +38,4 @@ Sähköpostiosoitteeni ovat muotoa first_name.last_name@\(helsinki tai iki\)\.fi
 
 #### Työnantajani
 
-[Ubisecure](https://www.ubisecure.com)
+[Digitaalinen asuntokauppa DIAS Oy](https://dias.fi)
